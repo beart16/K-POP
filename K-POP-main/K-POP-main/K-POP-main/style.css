@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.cabecalho{
+    background-color: #260045;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+}
+.cabecalho-item{
+    display: inline-block;
+    padding: 0 25px;
+}
+.k-pop-imagem{
+    width: 25%;
+}
+.k-pop{ 
+    background-image: linear-grandient(#532e6b,COCACD)
+color white;
+display:flex
+justify-content space-around;
+align-items:center;
+padding: 55px 0;
+}
+.k-pop-titulo{
+width:25% ; 
+}
+.k-pop-titulo{
+padding:25px 0;
+}
+.pefil{
+    background-color: #8a6d9e;
+}
+.estudante-imagem{
+    padding: -20px 0;
+    width: 200px;
+}
+ .k-pop-icone{
+    width: 24px;
+    padding: 20px 0;
+ }
+ .k-pop-div{
+    text-align: center;
+ }
+.k-pop-titulo{
+    text-align: center;
+    padding: 30px 0;
+}
+.k-pop-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    padding: 30px 0;
+}
+.rodape{
+    background-color: black;
+    color: white;
+    padding: 12px 0;
+    text-align: center;
+}
